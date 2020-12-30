@@ -1,2 +1,7 @@
 # linux-pcat
-command Cat prettified
+
+```bash
+ $ pcat ~/.bashrc
+```
+
+![pcat](pcat.png)
