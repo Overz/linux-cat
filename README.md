@@ -1,7 +1,9 @@
 # linux-pcat
 
+Pretty Cat
+
 ```bash
- $ pcat ~/.bashrc
+➜  linux-cat git:(main) ✗ cat ~/dev/node/nlw3/backend/Dockerfile
 ```
 
-![pcat](pcat.png)
+![pcat](cat.png)

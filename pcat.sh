@@ -5,12 +5,12 @@ echo " "
 sudo apt-get install python3 python3-pygments
 
 if [ -f "$HOME/.bashrc" ]; then
-    echo "alias pcat='pygmentize -f terminal256 -O style=native -g'" >> ~/.bashrc
+    echo "alias cat='pygmentize -f terminal256 -O style=native -g'" >> ~/.bashrc
     echo "Aliases in .bashrc Added!"
 fi
 
 if [ -f "$HOME/.zshrc" ]; then
-    echo "alias pcat='pygmentize -f terminal256 -O style=native -g'" >> ~/.zshrc
+    echo "alias cat='pygmentize -f terminal256 -O style=native -g'" >> ~/.zshrc
     echo "Aliases in .zshrc Added!"
 fi
 
