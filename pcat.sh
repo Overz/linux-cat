@@ -16,5 +16,5 @@ fi
 
 echo " "
 echo "Done!"
-echo "Try something like: 'pcat ~/.bashrc'"
+echo "Try something like: 'cat ~/.bashrc'"
 echo " "
